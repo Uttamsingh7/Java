@@ -27,7 +27,7 @@ public class Main {
 //
 //        int[] rols2= {23, 56, 78, 89, 90};
 //        int [] rol; // declaration of array, rol id getting defined in stack
-//        rol= new int[5]; // actual memory creation, object is being created in// heap memory
+//        rol= new int[5]; // actual memory creation, object is being created in heap memory.
 //
 
         // in java there is no concept of pointers
@@ -43,7 +43,7 @@ public class Main {
 //        int[] ros = new int[5];
 //
 //        System.out.println(ros[0]); // by default the value all integer array is zero
-//        array index start from 0  we can change update remove elements of an array with help of arrya index
+//        array index start from 0  we can change update remove elements of an array with help of array index
 //
 //        * String array
 
@@ -52,8 +52,8 @@ public class Main {
 
 //        null is special type i=literal
 
-//        String a =null;     // its possible it can only assgin into non-premitive
-//        null is by default value of non premitives data types
+//        String a =null;     // its possible it can only assign into non-primitive
+//        null is by default value of non primitives data types
 
 
     }

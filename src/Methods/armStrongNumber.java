@@ -9,7 +9,6 @@ public class armStrongNumber {
             for (int i = 100; i <1000 ; i++) {  // printf all 3 digit armstrong numbers
                 if(isArmstrong(i))
                     System.out.println(i);
-
             }
 
         }
